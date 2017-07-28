@@ -1,4 +1,4 @@
-Unix philosophy {#firstHeading .firstHeading lang="en"}
+Unix philosophy  
 ===============
 
 From Wikipedia, the free encyclopedia
