@@ -1,4 +1,4 @@
-# Unix-Philosophy-archive-2017-
+# Unix-Philosophy-archive-2017
 Unix Philosophy (archive, 2017)
 
 This webpage aims to archive the common Unix Philosophy (mirror 2017), since the philosophy might have changed today.
