@@ -8,3 +8,5 @@ Original Unix Philosophy shall be kept in memories and be available for programm
 You may also visit:
 
 http://www.catb.org/~esr/writings/taoup/html/
+
+https://nakamotoinstitute.org/static/docs/taoup.pdf
